@@ -1,4 +1,4 @@
-#Project pizza-calculator
+# Project pizza-calculator
 Данный проект представляет собой разработку калькулятора "Заказ пиццы". <br>
 Стек технологий
  * Bootstrap4
